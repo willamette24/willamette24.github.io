@@ -34,7 +34,7 @@ If you choose, we will provide you with a pin flag on your final lap to mark whe
 Both 12 and 24 hour runners are welcome to setup tables, chairs, tents and have crew join them throughout the day. There is plenty of space on the field next to the aid station. Pacers are welcome to join thier runner after the 12 hour run has completed, at 8:00pm. 
 
 # Food
-[See the race food page.](food.html)
+[See the race food page.](../food)
 
 # Awards 
 **TBA**
