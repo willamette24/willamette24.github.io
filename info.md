@@ -5,11 +5,16 @@ permalink: /info/
 ---
 
 # Race Day
-April 1, 2017
+**April 1, 2017**
 
 All races start at 8:00am
 
+A 1 mile loop with roughly 50% paved park path and 50% trail (with a short grass section). See below for more detail. 
+
+
 [Crystal Lake Sports Fields, Corvallis, Or](https://goo.gl/maps/E2LqRC2i5r52)
+
+
 
 
 # Pre-Race
@@ -43,7 +48,7 @@ Both 12 and 24 hour runners are welcome to setup tables, chairs, tents and have 
 # Course
 **Map coming soon**
 
-The course is a 1 mile loop, consisting of 50% trail/grass and 50% paved path. The race is held in a public park which will be open for public use throughout the day. The course path and trail is wide enough for our race and the general public to share, however, please understand that there may be local runners/walkers using some portion of the race course on race day.
+The course is a 1 mile loop, with one very small ~5ft tall hill, consisting of 50% trail and 50% paved path. The race is held in a public park which will be open for public use throughout the day. The course path and trail is wide enough for our race and the general public to share, however, please understand that there may be local runners/walkers using some portion of the race course on race day.
 
 # Contacts
 Race Director(s) : willamette24@gmail.com
