@@ -7,14 +7,15 @@ permalink: /info/
 # Race Day
 **April 1, 2017**
 
-All races start at 8:00am
+All races start at 8:00am, and we are offering a second wave of start times at 8:00pm for 6hr and 12hr runners who want to run through the night.
 
 A 1 mile loop with roughly 50% paved park path and 50% trail (with a short grass section). See below for more detail. 
 
 
 [Crystal Lake Sports Fields, Corvallis, Or](https://goo.gl/maps/E2LqRC2i5r52)
 
-
+# Benefit
+Our race is helping to raise money for "Lilly's Grant for Guidance," a fund in place to further suicide education in our schools, and counseling assistance for children within the the Corvallis and Philomath School Districts.
 
 
 # Pre-Race
@@ -24,8 +25,6 @@ A 1 mile loop with roughly 50% paved park path and 50% trail (with a short grass
 4. We have full access to the parking lot within sight of the race start/finish location. However, **we cannot use the parking spaces designated for boat trailers**, and will have volunteers directing traffic.
 
 # Medical
-**TBA**
-
 We will have volunteer medical staff on hand to help address basic first aid and medical needs such as blister and foot care. However, you are primarily responsible for your medical condition throughout the race. In the case of an emergency, the race directors will assist and getting you the care you need through the local EMTs if necessary. 
 
 **If you have a medical condition we should be aware of** please make sure to send us those details prior to race day so that we are aware and can assist getting you the care you need if necessary.
@@ -36,19 +35,20 @@ We have chip timing provided by [Huber Timing](http://www.hubertiming.com/), run
 If you choose, we will provide you with a pin flag on your final lap to mark where you stopped when you hear an air horn blow at the end of your race.
 
 # Crew
-Both 12 and 24 hour runners are welcome to setup tables, chairs, tents and have crew join them throughout the day. There is plenty of space on the field next to the aid station. Pacers are welcome to join thier runner after the 12 hour run has completed, at 8:00pm. 
+Both 12 and 24 hour runners are welcome to setup tables, chairs, tents and have crew join them throughout the day. There is plenty of space on the field next to the aid station. Pacers are welcome to join their runner after 8:00pm. 
 
 # Food
 [See the race food page.](../food)
 
 # Awards 
-**TBA**
-
+Every runner will receive a cool tshirt and a Silipint cup adorned with our race logo _(coming soon)_. We are working with a local potter to award the female and male overall winners with a custom (and functional) piece of art!
 
 # Course
 **Map coming soon**
 
 The course is a 1 mile loop, with one very small ~5ft tall hill, consisting of 50% trail and 50% paved path. The race is held in a public park which will be open for public use throughout the day. The course path and trail is wide enough for our race and the general public to share, however, please understand that there may be local runners/walkers using some portion of the race course on race day.
+
+We are in the process of getting our race sanctioned and course certified with the USATF as well as bronze labelling through the IAU.
 
 # Contacts
 Race Director(s) : willamette24@gmail.com
