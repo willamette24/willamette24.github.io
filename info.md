@@ -41,7 +41,7 @@ Both 12 and 24 hour runners are welcome to setup tables, chairs, tents and have 
 [See the race food page.](../food)
 
 # Awards 
-Every runner will receive a cool tshirt and a Silipint cup adorned with our race logo _(coming soon)_. We are working with a local potter to award the female and male overall winners with a custom (and functional) piece of art!
+Every runner will receive a cool tshirt and a Silipint cup adorned with our race logo _(coming soon)_. We are working on identifying an appropriately cool award for male and female overall winners! 
 
 # Course
 **Map coming soon**
