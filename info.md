@@ -30,7 +30,7 @@ We will have volunteer medical staff on hand to help address basic first aid and
 **If you have a medical condition we should be aware of** please make sure to send us those details prior to race day so that we are aware and can assist getting you the care you need if necessary.
 
 # Timing
-We have chip timing provided by [Huber Timing](http://www.hubertiming.com/), runners will be able to see thier lap splits and total mileage displayed on every lap. 
+We have chip timing provided by [Huber Timing](http://www.hubertiming.com). Runners will be able to see thier lap splits and total mileage displayed on every lap. Your timing chip will be attached to the back of your race bib and is disposable. Please wear your race bib on all laps and on an outermost layer of clothing. Do not fold or crimple the timing chip portion of your race bib. Results will be posted live to http://hubertiming.com/results/Willamette24 and also uploaded to UltraSignUp after the race.
 
 If you choose, we will provide you with a pin flag on your final lap to mark where you stopped when you hear an air horn blow at the end of your race.
 
