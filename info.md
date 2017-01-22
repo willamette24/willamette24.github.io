@@ -15,7 +15,7 @@ A 1 mile loop with roughly 50% paved park path and 50% trail (with a short grass
 [Crystal Lake Sports Fields, Corvallis, Or](https://goo.gl/maps/E2LqRC2i5r52)
 
 # Benefit
-Our race is helping to raise money for "Lilly's Grant for Guidance," a fund in place to further suicide education in our schools, and counseling assistance for children within the the Corvallis and Philomath School Districts.
+Our race is helping to raise money for "Lilly's Grant for Guidance," a fund in place to further suicide education in our schools, and counseling assistance for children within the Corvallis and Philomath School Districts.
 
 
 # Pre-Race
