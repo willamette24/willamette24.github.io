@@ -10,7 +10,8 @@ description: > # this means to ignore newlines until "email:"
 
 email: willamette24@gmail.com
 #blog logo
-logo: "/assets/images/w24_logo.png"
+logo: "/assets/images/rectangle-transparent-logo.png"
+text-logo: "/assets/images/w24_logo.png"
 # blog cover
 cover: "/assets/images/park2.jpg"
 
