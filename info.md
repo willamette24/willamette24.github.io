@@ -35,7 +35,7 @@ We have chip timing provided by [Huber Timing](http://www.hubertiming.com). Runn
 If you choose, we will provide you with a pin flag on your final lap to mark where you stopped when you hear an air horn blow at the end of your race.
 
 # Crew
-Both 12 and 24 hour runners are welcome to setup tables, chairs, tents and have crew join them throughout the day. There is plenty of space on the field next to the aid station. Pacers are welcome to join their 24hr runner after 8:00pm. 
+Both 12 and 24 hour runners are welcome to setup tables, chairs, tents and have crew join them throughout the day. There is plenty of space on the field next to the aid station. 
 
 # Food
 [See the race food page.](../food)
