@@ -9,7 +9,7 @@ permalink: /info/
 
 All races start at 8:00am, and we are offering a second wave of start times at 8:00pm for the Marathon, 6hr, and 12hr runners who want to run through the night.
 
-A 1 mile loop with roughly 50% paved park path and 50% trail (with a short grass section). See below for more detail. 
+A 0.94 mile loop with roughly 50% paved park path and 50% trail (with a short grass section). See below for more detail. 
 
 
 [Crystal Lake Sports Fields, Corvallis, Or](https://goo.gl/maps/E2LqRC2i5r52)
