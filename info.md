@@ -9,7 +9,9 @@ permalink: /info/
 
 All races start at 8:00am, and we are offering a second wave of start times at 8:00pm for the Marathon, 6hr, and 12hr runners who want to run through the night.
 
-USATF certified (#OR17005LB) 0.94 mile loop with roughly 50% paved park path and 50% trail (with a short grass section). See below for more detail. 
+**Update:** Due to the ridiculous rain we've been getting in Oregon, the trail section of the course is quite a mess from park maintenance and has a lengthy section of slick mud. As an alternative, we've measured and are certifying a course run entirely on the multi-use park path that will measure just over a mile. 
+
+~~USATF certified (#OR17005LB) 0.94 mile loop with roughly 50% paved park path and 50% trail (with a short grass section). See below for more detail.~~ 
 
 
 [Crystal Lake Sports Fields, Corvallis, Or](https://goo.gl/maps/E2LqRC2i5r52)
@@ -46,9 +48,11 @@ Every runner will receive a cool tshirt and a pint cup adorned with our race log
 # Course
 **Map coming soon**
 
-The course is a 0.94 mile loop, with one very small ~5ft tall hill, consisting of 50% trail and 50% paved path. The race is held in a public park which will be open for public use throughout the day. The course path and trail is wide enough for our race and the general public to share, however, please understand that there may be local runners/walkers using some portion of the race course on race day.
+**Update:** Due to the endless rain we've been getting in Oregon, the trail section of the course is quite a mess from park maintenance and muddy sections. As an alternative, we've measured and are certifying a course run entirely on the multi-use park path that will measure just over a mile. 
 
-The race is a sanctioned USATF event and certified course (#OR17005LB). We are also going to apply for IAU bronze labelling after our national certifications are complete.. Come out and set a personal, age, or world record with confidence in our event and course!
+~~The course is a 0.94 mile loop, with one very small ~5ft tall hill, consisting of 50% trail and 50% paved path. The race is held in a public park which will be open for public use throughout the day. The course path and trail is wide enough for our race and the general public to share, however, please understand that there may be local runners/walkers using some portion of the race course on race day.~~
+
+The race is a sanctioned USATF event and certified course. Come out and set a personal, age, or world record with confidence in our event and course!
 
 ![](/assets/images/2017_Sanctioned_Event_Logo_BW.jpg?raw=true)
 ![](/assets/images/USATF_Certified_Course_Logo_BW.jpg?raw=true)
