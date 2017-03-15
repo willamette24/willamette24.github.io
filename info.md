@@ -48,7 +48,7 @@ Every runner will receive a cool tshirt and a pint cup adorned with our race log
 # Course
 **Map coming soon**
 
-**Update:** Due to the endless rain we've been getting in Oregon, the trail section of the course is quite a mess from park maintenance and muddy sections. As an alternative, we've measured and are certifying a course run entirely on the multi-use park path that will measure just over a mile. 
+**Update:** Due to the ridiculous rain we've been getting in Oregon, the trail section of the course is quite a mess from park maintenance and has a lengthy section of slick mud. As an alternative, we've measured and are certifying a course run entirely on the multi-use park path that will measure just over a mile. 
 
 ~~The course is a 0.94 mile loop, with one very small ~5ft tall hill, consisting of 50% trail and 50% paved path. The race is held in a public park which will be open for public use throughout the day. The course path and trail is wide enough for our race and the general public to share, however, please understand that there may be local runners/walkers using some portion of the race course on race day.~~
 
