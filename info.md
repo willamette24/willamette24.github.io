@@ -9,7 +9,7 @@ permalink: /info/
 
 All races start at 8:00am, and we are offering a second wave of start times at 8:00pm for the Marathon, 6hr, and 12hr runners who want to run through the night.
 
-**Update:** Due to the ridiculous rain we've been getting in Oregon, the trail section of the course is quite a mess from park maintenance and has a lengthy section of slick mud. As an alternative, we've measured and are certifying a course run entirely on the multi-use park path that will measure just over a mile. 
+Due to the ridiculous rain we've been getting in Oregon, the trail section of the course is quite a mess from park maintenance and has a lengthy section of slick mud. As an alternative, we've measured and are certified a course run entirely on the multi-use park path that will measure just over a mile. See the USATF Certified Course #OR17006LB.
 
 ~~USATF certified (#OR17005LB) 0.94 mile loop with roughly 50% paved park path and 50% trail (with a short grass section). See below for more detail.~~ 
 
@@ -21,7 +21,7 @@ Our race is helping to raise money for "Lilly's Grant for Guidance," a fund in p
 
 
 # Pre-Race
-1. Packet pickup : **TBA**
+1. Packet pickup : Race day morning at 7am at the Start/Finish aid station.
 2. Directions: [100 SE Fischer Lane, Corvallis, OR](https://goo.gl/maps/E2LqRC2i5r52)
 3. The gate opens at 6:00am Saturday morning with a race start at 8:00am. Runners will be emailed additional details prior to the race.
 4. We have full access to the parking lot within sight of the race start/finish location. However, **we cannot use the parking spaces designated for boat trailers**, and will have volunteers directing traffic.
@@ -43,12 +43,17 @@ Both 12 and 24 hour runners are welcome to setup tables, chairs, tents and have 
 [See the race food page.](../food)
 
 # Awards 
-Every runner will receive a cool tshirt and a pint cup adorned with our race logo _(coming soon)_. We are working on identifying an appropriately cool award for male and female overall winners! 
+Every runner will receive a cool tshirt and a pint cup adorned with our race logo. We are working on identifying an appropriately cool award for male and female overall winners! 
+
+# Buckle?
+Yes, we have a buckle for the folks who collect them. Run 100 or more miles at the race, and you'll be one of the few folks who own one of the Willamette 24 buckles. It's our first year with the race, and the project timeline got away from me.. for now, we can only share the artwork proof of the buckle design. When the buckle production is finished, we'll deliver them to the runners and add a photo of the actual piece!
+
+![](/assets/images/buckle_example.png?raw=true)
 
 # Course
 **Map coming soon**
 
-**Update:** Due to the ridiculous rain we've been getting in Oregon, the trail section of the course is quite a mess from park maintenance and has a lengthy section of slick mud. As an alternative, we've measured and are certifying a course run entirely on the multi-use park path that will measure just over a mile. 
+Due to the ridiculous rain we've been getting in Oregon, the trail section of the course is quite a mess from park maintenance and has a lengthy section of slick mud. As an alternative, we've measured and are certified a course run entirely on the multi-use park path that will measure just over a mile. See the USATF Certified Course #OR17006LB.
 
 ~~The course is a 0.94 mile loop, with one very small ~5ft tall hill, consisting of 50% trail and 50% paved path. The race is held in a public park which will be open for public use throughout the day. The course path and trail is wide enough for our race and the general public to share, however, please understand that there may be local runners/walkers using some portion of the race course on race day.~~
 
