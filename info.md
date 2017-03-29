@@ -48,7 +48,7 @@ Every runner will receive a cool tshirt and a pint cup adorned with our race log
 # Buckle?
 Yes, we have a buckle for the folks who collect them. Run 100 or more miles at the race, and you'll be one of the few folks who own one of the Willamette 24 buckles. It's our first year with the race, and the project timeline got away from me.. for now, we can only share the artwork proof of the buckle design. When the buckle production is finished, we'll deliver them to the runners and add a photo of the actual piece!
 
-![](/assets/images/buckle_example.png?raw=true)
+![](/assets/images/buckle-example.png?raw=true)
 
 # Course
 **Map coming soon**
