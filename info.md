@@ -61,6 +61,9 @@ Due to the ridiculous rain we've been getting in Oregon, the trail section of th
 
 # Lap Counts
 
+<style>
+th { padding-right: 30px; }
+</style>
 <table>
 <thead><tr><th>Distance</th><th>Paved Course (1.08mi) Lap #</th><th>Trail Course (0.94mi) Lap #</th></tr></thead>
 <tbody>
