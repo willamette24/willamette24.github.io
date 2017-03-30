@@ -62,13 +62,13 @@ Due to the ridiculous rain we've been getting in Oregon, the trail section of th
 # Lap Counts
 
 <table>
-<thead><tr><th>Distance</th><th>Paved Course (1.08mi) Lap #</th><th>Trail Course (0.95mi) Lap #</th></tr></thead>
+<thead><tr><th>Distance</th><th>Paved Course (1.08mi) Lap #</th><th>Trail Course (0.94mi) Lap #</th></tr></thead>
 <tbody>
-<tr><td>Marathon</td><td>24.3</td><td>27.6</td></tr>
-<tr><td>50k</td><td>28.7</td><td>32.6</td></tr>
-<tr><td>50mi</td><td>46.3</td><td>52.6</td></tr>
-<tr><td>100k</td><td>57.4</td><td>65.3</td></tr>
-<tr><td>100mi</td><td>92.6</td><td>105.3</td></tr>
+<tr><td>Marathon</td><td>24.3</td><td>27.9</td></tr>
+<tr><td>50k</td><td>28.7</td><td>33</td></tr>
+<tr><td>50mi</td><td>46.3</td><td>53.2</td></tr>
+<tr><td>100k</td><td>57.4</td><td>66</td></tr>
+<tr><td>100mi</td><td>92.6</td><td>106.4</td></tr>
 </tbody>
 </table>
 
