@@ -51,7 +51,7 @@ Yes, we have a buckle for the folks who collect them. Run 100 or more miles at t
 ![](/assets/images/buckle-example.png?raw=true)
 
 # Course
-**Map coming soon**
+<img src="/assets/images/RaceDayMap.jpg?raw=true" alt="" style="max-width: 200px;">
 
 Due to the ridiculous rain we've been getting in Oregon, the trail section of the course is quite a mess from park maintenance and has a lengthy section of slick mud. As an alternative, we've measured and are certified a course run entirely on the multi-use park path that will measure just over a mile. See the USATF Certified Course #OR17006LB.
 
